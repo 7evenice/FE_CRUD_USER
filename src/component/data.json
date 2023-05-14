@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Phan Long",
+        "tel":"0909999090",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Danh đù",
+        "tel":"09012345678",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Nguyễn Thị Nở",
+        "tel":"0900000090",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Bé Huy",
+        "tel":"0909999090",
+        "permission":3
+    },
+    {
+        "id":5,
+        "name":"Bé Nghĩa Zé",
+        "tel":"0901111090",
+        "permission":2
+    }
+]
